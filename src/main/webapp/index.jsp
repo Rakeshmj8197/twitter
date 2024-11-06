@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>welcome to twitter</h1>
+    <h1>welcome to twitter and create the account</h1>
 </body>
 </html>
